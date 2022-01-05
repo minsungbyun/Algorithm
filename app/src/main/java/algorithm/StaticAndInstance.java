@@ -25,6 +25,7 @@ public class StaticAndInstance {
     a.append("UCESS");
     System.out.println(StaticAndInstance.a);
     System.out.println(b.b);
+    
 
 
   }

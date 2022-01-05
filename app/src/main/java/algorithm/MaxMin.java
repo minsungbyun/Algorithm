@@ -4,7 +4,7 @@ public class MaxMin {
 
   public static void main(String[] args) {
 
-    int a = 40, b = 30, c = 45;
+    int a = 30, b = 40, c = 45;
     int max, min;
     max = (a > b && a > c) ? a : (b > c) ? b : c;
     min = (a < b && a < c) ? a : (b < c) ? b : c;
